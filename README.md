@@ -1,4 +1,4 @@
-# Hi there, I'm Kaps 👋
+## Hi there, I'm Kaps 👋
 
 🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **JavaScript**  
 🎓 **Masters Engineering Graduate, UCL**  
@@ -17,7 +17,10 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syzygyastro&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syzygyastro&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
 
 ---
 
@@ -35,7 +38,7 @@
 
 ---
 
-## 📫 Connect With Me
+### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/kshitij-kapoor-203364207/)
 - 🌐 [Portfolio](https://syzygy-io.webflow.io/)
