@@ -46,4 +46,4 @@
 
 ---
 
-⭐️ _"Keep exploring, keep learning."_  
+⛰️ _"Ne plus ultra"_  
