@@ -2,7 +2,7 @@
 
 🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **JavaScript**  
 🎓 **Masters Engineering Graduate, UCL**  
-💡 Passionate about **system design**, **algorithms**, and **building scalable apps**.  
+💡 Currently learning **C++**, **Architecture Patterns In Python**, and **Systems Design**.  
 
 ---
 
