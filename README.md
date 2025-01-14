@@ -31,7 +31,7 @@
 ### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Gin Gonic](https://img.shields.io/badge/gin--gonic-v1.9.0-blue?style=for-the-badge&logo=go)
+![Gin Gonic](https://img.shields.io/badge/gin--gonic-v1.9.0-blue?style=flat&logo=go)
 
 ---
 
