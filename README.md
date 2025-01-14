@@ -17,7 +17,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-![Kshitij's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Syzygyastro&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Syzygyastro&layout=compact&theme=radical)
 
 ---
@@ -32,8 +31,7 @@
 ### Frameworks & Tools
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Gin Gonic](https://img.shields.io/badge/gin--gonic-v1.9.0-blue?style=for-the-badge&logo=go)
 
 ---
 
