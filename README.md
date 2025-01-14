@@ -1,6 +1,6 @@
 ## Hi there, I'm Kaps 👋
 
-🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **JavaScript**  
+🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **Ts/Js**  
 🎓 **Masters Engineering Graduate, UCL**  
 💡 Currently learning **C++**, **Architecture Patterns In Python**, and **Systems Design**.  
 
