@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Featured Projects
-- 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative filtering.
+- 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative SVD filtering.
 - 📊 [**YouTube Insights**](https://github.com/Syzygyastro/youtube_insights): Analyze your YouTube subscriptions with data visualization.
 - 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning.
 - 📖 [**Domain Modelling TDD**](https://github.com/Syzygyastro/Domain_modelling_TDD): Exploring domain-driven design with test-driven development.
