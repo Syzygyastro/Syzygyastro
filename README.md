@@ -1,7 +1,7 @@
-# Hi there, I'm Kshitij Kapoor 👋
+# Hi there, I'm Kaps 👋
 
 🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **JavaScript**  
-🎓 **Masters Eng Graduate, UCL**  
+🎓 **Masters Engineering Graduate, UCL**  
 💡 Passionate about **system design**, **algorithms**, and **building scalable apps**.  
 
 ---
@@ -10,8 +10,8 @@
 - 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative filtering.
 - 📊 [**YouTube Insights**](https://github.com/Syzygyastro/youtube_insights): Analyze your YouTube subscriptions with data visualization.
 - 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning.
-- 🧩 [**Domain Modelling TDD**](https://github.com/Syzygyastro/Domain_modelling_TDD): Exploring domain-driven design with test-driven development.
-- 🟢 [**Tarjan's Algorithm Visualization**](https://github.com/Syzygyastro/Tarjans): Visualizing graph algorithms with Manim.
+- 📖 [**Domain Modelling TDD**](https://github.com/Syzygyastro/Domain_modelling_TDD): Exploring domain-driven design with test-driven development.
+- 👨‍🏫 [**Tarjan's Algorithm Visualization**](https://github.com/Syzygyastro/Tarjans): Visualizing graph algorithms with Manim.
 
 ---
 
@@ -39,9 +39,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🌐 [Portfolio](https://your-portfolio-site.com/)
-- ✉️ [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kshitij-kapoor-203364207/)
+- 🌐 [Portfolio](https://syzygy-io.webflow.io/)
+- ✉️ [Email](mailto:kkaps6776@gmail.com)
 
 ---
 
