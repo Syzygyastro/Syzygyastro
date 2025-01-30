@@ -10,6 +10,7 @@
 - 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative SVD filtering.
 - 📊 [**YouTube Insights**](https://github.com/Syzygyastro/youtube_insights): Analyze your YouTube subscriptions with data visualization.
 - 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning.
+- 👩‍💻 [**Bash Shell in Golang**](https://github.com/Syzygyastro/Bash-Go): A Bash Shell created from scratch in Go.
 - 📖 [**Domain Modelling TDD**](https://github.com/Syzygyastro/Domain_modelling_TDD): Exploring domain-driven design with test-driven development.
 - 👨‍🏫 [**Tarjan's Algorithm Visualization**](https://github.com/Syzygyastro/Tarjans): Visualizing graph algorithms with Manim.
 
