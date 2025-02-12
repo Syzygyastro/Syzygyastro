@@ -7,10 +7,11 @@
 ---
 
 ## 🌟 Featured Projects
-- 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning.
+- 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning in an interactive way.
+-🏠 [**Low-Latency Orderbook Matching Engine**](https://github.com/Syzygyastro/Orderbook): Real-time C++ Price-Time priority Orderbook Web Server with Frontend React integration.
+- 👩‍💻 [**Bash Shell in Golang**](https://github.com/Syzygyastro/Bash-Go): A Bash Shell created from scratch in Go.
 - 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative SVD filtering.
 - 📊 [**YouTube Insights**](https://github.com/Syzygyastro/youtube_insights): Analyze your YouTube subscriptions with data visualization.
-- 👩‍💻 [**Bash Shell in Golang**](https://github.com/Syzygyastro/Bash-Go): A Bash Shell created from scratch in Go.
 - 📖 [**Domain Modelling TDD**](https://github.com/Syzygyastro/Domain_modelling_TDD): Exploring domain-driven design with test-driven development.
 - 👨‍🏫 [**Tarjan's Algorithm Visualization**](https://github.com/Syzygyastro/Tarjans): Visualizing graph algorithms with Manim.
 
