@@ -2,7 +2,7 @@
 
 🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **Ts/Js**  
 🎓 **Masters Engineering Graduate, UCL**  
-💡 Currently learning **C++**, **Architecture Patterns In Python**, and **Systems Design**.  
+💡 Currently learning **Architecture Patterns In Python**, and **Systems Design**.  
 
 ---
 
@@ -36,6 +36,7 @@
 
 
 ### Frameworks & Tools
+![FastApi](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
