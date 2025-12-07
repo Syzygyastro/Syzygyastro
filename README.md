@@ -18,11 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syzygyastro&layout=compact&theme=radical" alt="Top Languages" />
-</div>
 
 
 ---
