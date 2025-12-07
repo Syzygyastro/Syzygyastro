@@ -1,8 +1,8 @@
 ## Hi there, I'm Kaps 👋
 
-🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **Ts/Js**  
+🌌 **Back-End & Full-Stack Developer** | Experienced in **Python**, **Golang**, **Ts**, **Golang**
 🎓 **Masters Engineering Graduate, UCL**  
-💡 Currently learning **Architecture Patterns In Python**, and **Systems Design**.  
+💡 Currently learning **Multi Agentic AI Systems**, and **Designing Data Intensive Applications**.  
 
 ---
 
@@ -28,7 +28,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 
