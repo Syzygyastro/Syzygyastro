@@ -7,8 +7,8 @@
 ---
 
 ## 🌟 Featured Projects
+- 📚 [**Gradius**](https://gradius.ai/): A Personalised AI learning platform reaching 10000+ users globally.
 - ♟️ [**Vibechex**](https://vibechex.xyz/): Connect with people globally on live stream and play a vibrant game of chess.
-- 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning in an interactive way.
 - ⚙️ [**Low-Latency Orderbook Matching Engine**](https://github.com/Syzygyastro/Orderbook): Real-time C++ Price-Time priority Orderbook Web Server with FE React integration.
 - 👩‍💻 [**Bash Shell in Golang**](https://github.com/Syzygyastro/Bash-Go): A Bash Shell created from scratch in Go.
 - 🔮 [**Letterboxd Recommendation App**](https://github.com/Syzygyastro/letterboxd_recommendation_app): Personalized movie recommendations using collaborative SVD filtering.
@@ -26,6 +26,7 @@
 
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black)
 ![Golang](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
