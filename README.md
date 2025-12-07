@@ -7,6 +7,7 @@
 ---
 
 ## 🌟 Featured Projects
+- ♟️ [**Vibechex**](https://vibechex.xyz/): Connect with people globally on live stream and play a vibrant game of chess.
 - 🏠 [**House Predictor**](https://github.com/Syzygyastro/House_predictor): Predict property prices with machine learning in an interactive way.
 - ⚙️ [**Low-Latency Orderbook Matching Engine**](https://github.com/Syzygyastro/Orderbook): Real-time C++ Price-Time priority Orderbook Web Server with FE React integration.
 - 👩‍💻 [**Bash Shell in Golang**](https://github.com/Syzygyastro/Bash-Go): A Bash Shell created from scratch in Go.
